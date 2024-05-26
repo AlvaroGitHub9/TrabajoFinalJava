@@ -139,7 +139,7 @@ public class Partida {
                 System.out.println("No se ha podido crear el fichero de estadísticas");
             }
         } catch (IOException e) {
-            System.out.println("Sucedió algo inesperado :/, intentalo mas tarde");
+            System.out.println("Sucedió algo inesperado :/, intentalo de nuevo o vuelve más tarde.");
         }
     }
 }
